@@ -3,6 +3,8 @@ import './App.css';
 import sketch from './sketch';
 import p5 from 'p5';
 import Alert from 'react-bootstrap/Alert';
+import  './index.css';
+import './App.cs';
 
 
 const TEXT = 'Happy Birthday 9.11';
