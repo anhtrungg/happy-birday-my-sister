@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/happy-birday-my-sister/precache-manifest.5046f75149a4d020b52d34aa732a8ca4.js"
+  "/happy-birday-my-sister/precache-manifest.dc97a1d1a271926558944e96ee78daac.js"
 );
 
 self.addEventListener('message', (event) => {
