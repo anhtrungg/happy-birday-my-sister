@@ -2,8 +2,11 @@ import React from 'react';
 import './App.css';
 import sketch from './sketch';
 import p5 from 'p5';
+import  './index.css';
+import './App.css';
 
-const TEXT = 'Happy Birthday Trisha';
+
+const TEXT = 'Happy Birthday 9.11';
 
 const App = () => {
   const canvasRef = React.useRef(null)
@@ -17,9 +20,14 @@ const App = () => {
   })
 
   return (
-    <div className="main">
-      <div ref={canvasRef} />
-    </div >
+    <div>
+      <div className="main">
+          <div ref={canvasRef} />
+      </div >
+      <div>
+        <h1>Phương Anh</h1>
+      </div >
+    </div>
   )
 }
 
