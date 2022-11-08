@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/happy-birday-my-sister/static/css/main.81a27ea0.chunk.css",
-    "main.js": "/happy-birday-my-sister/static/js/main.278cd1a9.chunk.js",
-    "main.js.map": "/happy-birday-my-sister/static/js/main.278cd1a9.chunk.js.map",
+    "main.js": "/happy-birday-my-sister/static/js/main.d20c625b.chunk.js",
+    "main.js.map": "/happy-birday-my-sister/static/js/main.d20c625b.chunk.js.map",
     "runtime-main.js": "/happy-birday-my-sister/static/js/runtime-main.2be64d18.js",
     "runtime-main.js.map": "/happy-birday-my-sister/static/js/runtime-main.2be64d18.js.map",
     "static/css/2.32048716.chunk.css": "/happy-birday-my-sister/static/css/2.32048716.chunk.css",
     "static/js/2.e865efaa.chunk.js": "/happy-birday-my-sister/static/js/2.e865efaa.chunk.js",
     "static/js/2.e865efaa.chunk.js.map": "/happy-birday-my-sister/static/js/2.e865efaa.chunk.js.map",
     "index.html": "/happy-birday-my-sister/index.html",
-    "precache-manifest.2bafb791afdfb51b169c2cdf67918f51.js": "/happy-birday-my-sister/precache-manifest.2bafb791afdfb51b169c2cdf67918f51.js",
+    "precache-manifest.9bd0bf7429ea4527437de759e7849016.js": "/happy-birday-my-sister/precache-manifest.9bd0bf7429ea4527437de759e7849016.js",
     "service-worker.js": "/happy-birday-my-sister/service-worker.js",
     "static/css/2.32048716.chunk.css.map": "/happy-birday-my-sister/static/css/2.32048716.chunk.css.map",
     "static/css/main.81a27ea0.chunk.css.map": "/happy-birday-my-sister/static/css/main.81a27ea0.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.32048716.chunk.css",
     "static/js/2.e865efaa.chunk.js",
     "static/css/main.81a27ea0.chunk.css",
-    "static/js/main.278cd1a9.chunk.js"
+    "static/js/main.d20c625b.chunk.js"
   ]
 }
