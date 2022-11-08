@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import sketch from './sketch';
 import p5 from 'p5';
-import Alert from 'react-bootstrap/Alert';
 import  './index.css';
 import './App.css';
 
@@ -27,9 +26,7 @@ const App = () => {
       </div >
       <div>
         <h1>
-        <Alert key='secondary' variant='secondary'>
           Nguyễn Thị Phương Anh
-        </Alert>
         </h1>
         <div className = "img1">
           <img src="https://firebasestorage.googleapis.com/v0/b/voice-project-f2a8b.appspot.com/o/phuong-anhn.jpg?alt=media&token=827ba218-98c6-4591-be85-aeaf9ba6c71f" alt="Phuong-Anh"></img>
