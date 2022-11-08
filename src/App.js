@@ -29,9 +29,14 @@ const App = () => {
           Nguyễn Thị Phương Anh
         </Alert>
         </h1>
-        <FontAwesomeIcon icon="fas fa-birthday-cake" />
-        <div id="first">
-        <img class="img1" src="phuong-anhn.jpg" alt="Phuong-Anh"></img>
+        <div className = "img1">
+          <img src="phuong-anhn.jpg" alt="Phuong-Anh"></img>
+        </div>
+        <div className="img3">
+        <img className="img3" src="phuonganh-3.jpg" alt="Phuong-Anh"></img>
+        </div>
+        <div className="img2">
+        <img className="img2" src="phuonganh-2.jpg" alt="Phuong-Anh"></img>
         </div>
       </div >
     </div>
