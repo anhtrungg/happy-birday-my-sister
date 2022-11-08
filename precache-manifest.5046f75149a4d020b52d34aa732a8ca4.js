@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad8e5165873eef9b582e43b2b016042c",
+    "revision": "a1533310ef5d759b5fe2b01880e3e464",
     "url": "/happy-birday-my-sister/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happy-birday-my-sister/static/css/2.32048716.chunk.css"
   },
   {
-    "revision": "2c5107754433e576cdc2",
-    "url": "/happy-birday-my-sister/static/css/main.0066806a.chunk.css"
+    "revision": "2a00890623b1de89b4f4",
+    "url": "/happy-birday-my-sister/static/css/main.294ce1cf.chunk.css"
   },
   {
     "revision": "75da765da35f9dbf247a",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happy-birday-my-sister/static/js/2.f675a6e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c5107754433e576cdc2",
+    "revision": "2a00890623b1de89b4f4",
     "url": "/happy-birday-my-sister/static/js/main.4f601467.chunk.js"
   },
   {
