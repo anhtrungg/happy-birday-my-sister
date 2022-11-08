@@ -4,7 +4,7 @@ import sketch from './sketch';
 import p5 from 'p5';
 import Alert from 'react-bootstrap/Alert';
 import  './index.css';
-import './App.cs';
+import './App.css';
 
 
 const TEXT = 'Happy Birthday 9.11';
